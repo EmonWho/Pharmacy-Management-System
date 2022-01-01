@@ -1,0 +1,8 @@
+1 napa tablet 12.2.2020 45 23.0 incepta 
+2 aspirin tablet 11.1.2028 30 45.0 beximco 
+3 parapirul capsul 23.5.2022 50 40.0 incepta 
+4 pepsodent Toothpaste 14.6.2021 60 80.0 Uniliver 
+5 nivea cream 19.5.2024 40 120.0 Uniliver 
+6 fair&Lovely Cream 12.6.2023 40 100.0 Uniliver 
+7 fenut Syrup 22.12.2022 30 55.0 beximco 
+8 moxasil Syrup 11.5.2022 20 120.0 incepta 
